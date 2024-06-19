@@ -1,0 +1,5 @@
+django-admin start project __name of the project__ 
+py ./manage.py startapp app
+venv venv
+venv/Scripts/activate
+pip freeze
